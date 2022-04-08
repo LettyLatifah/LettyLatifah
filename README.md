@@ -1,6 +1,6 @@
-# Halo Semua! 
+# Hello Everyone! 
 
-Hello everyone! **Letty Latifah** here.
+**Letty Latifah** here!
 
 <p align="left">
 <a href="https://github.com/LettyLatifah">
