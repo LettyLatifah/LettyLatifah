@@ -1,6 +1,6 @@
 # Halo Semua! 
 
-Perkenalkan nama saya **Letty Latifani Arifah**.
+Hello everyone! **Letty Latifah** here.
 
 <p align="left">
 <a href="https://github.com/LettyLatifah">
