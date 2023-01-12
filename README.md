@@ -9,11 +9,11 @@ A final year student majoring in Information System at Sriwijaya University who 
 - ⚡ Fun fact: -->
 
 ### Tech Stack
+   <a href="https://a/"><img align="left" alt="Next" title="HTML" height="21px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" /></a>
+    <a href="https://a/"><img align="left" alt="Next" title="CSS" height="21px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" /></a>
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://expressjs.com/"><img align="left" alt="Next" title="Express JS" height="21px" src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" /></a>
-   <a href="https://a/"><img align="left" alt="Next" title="HTML" height="21px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" /></a>
-    <a href="https://a/"><img align="left" alt="Next" title="CSS" height="21px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" /></a>
   <br>
   <br>
   
