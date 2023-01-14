@@ -1,6 +1,8 @@
 ### Hi! 👋 I'm Letty Latifah.
 
-A final year student majoring in Information System at Sriwijaya University who interest to learn about web development and UI UX Design. I'm currently learning about Front-End and Back-End about Web Development.  
+A final year student majoring in Information System at Sriwijaya University who interest to learn about web development and UI UX Design. 
+<!-- 
+I'm currently learning about Front-End and Back-End about Web Development.  
 
 <!-- - 🔭 I’m currently working 
 - 🌱 I’m currently learning 
@@ -26,4 +28,4 @@ A final year student majoring in Information System at Sriwijaya University who 
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/lettylatifah/">LinkedIn</a>
+- <a href="https://linkedin.com/in/lettylatifah/">LinkedIn</a> -->
