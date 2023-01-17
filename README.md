@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Letty Latifah
 
-A final year student majoring in Information System at Sriwijaya University who interested to learning about web development. I'm currently learning about Front-End and Back-End Web Development.
+A final year student majoring in Information System at Sriwijaya University who interested in learning about Web Development. I'm currently learning about Front-End and Back-End Web Development.
 
 <!-- - 🔭 I’m currently working 
 - 🌱 I’m currently learning 
